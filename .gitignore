@@ -11,5 +11,4 @@ yarn-error.log*
 .vscode/*
 
 node_modules
-dist
 .idea
